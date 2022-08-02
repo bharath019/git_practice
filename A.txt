@@ -1,8 +1,5 @@
 line 1
 Line 2
 Line 3
-<<<<<<< HEAD
 Line from the local repo
-=======
 line from the remote repo
->>>>>>> 6d6c2653beca9f8ea2a281e00dda6c217156e079
